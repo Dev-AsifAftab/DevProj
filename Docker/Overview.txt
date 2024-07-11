@@ -1,0 +1,11 @@
+Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications. By taking advantage of Docker's methodologies for shipping, testing, and deploying code, you can significantly reduce the delay between writing code and running it in production.
+
+Why it is different from traditional virtulization?
+-- It is different in terms of different aspect below:
+    1.Isolation
+    2.Poratability
+    3.Resource Efficient
+ It shares the host systme kernel, making them more light weight and efficient compared to virtulization.
+ Containers are great for continuous integration and continuous delivery (CI/CD) workflows.
+
+ 
