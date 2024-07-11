@@ -1,3 +1,7 @@
+## This is for creating image from the resource we have , eg I had a html resource for a website outof which i have made a image of it.
+
+
+
 #choosing the base image for the reference
 FROM ubuntu:latest
 LABEL "Author"="Asif"
